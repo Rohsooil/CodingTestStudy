@@ -2,4 +2,7 @@
 
 .DS_Store
 .idea
+/java/main
+# IntelliJ IDEA
+/out/
 
